@@ -1,0 +1,62 @@
+.gather{
+    width: 100%;
+    height: 440px;
+    background-color: #f5f4f2;
+    background-image: url("../../images/gather.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.detail{
+    width: 470px;
+    height: 460px;
+    padding-left: 90px;
+    padding-right: 80px;
+}
+.detail h2{
+    color: #ff6b59;
+    padding-top: 120px;
+    padding-bottom: 44px;
+    font-size: 30px;
+}
+.detail p{
+    line-height: 32px;
+    color: #858585;
+    font-size: 16px;
+}
+.P2P{
+    background: url("../../images/P2P.png") no-repeat 666px 80px;
+}
+.stage{
+    background: url("../../images/stage.png") no-repeat 90px 70px;
+}
+.sell{
+    background: url("../../images/sell.png") no-repeat 666px 50px;
+}
+.e-commerce{
+    background: url("../../images/e_commerce.png") no-repeat 60px 80px;
+    padding-bottom: 20px;
+}
+
+.footer{
+    height: 300px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #ffffff;
+    background: #3a3a3a;
+}
+.footer ul{
+    padding-top: 32px;
+    padding-bottom: 21px;
+    width: 350px;
+}
+.footer a{
+    color: #ffffff;
+}
+.footer ul li{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.footer ul li.border-r{
+    border-right: 2px solid #fff;
+}

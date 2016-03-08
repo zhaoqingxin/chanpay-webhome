@@ -1,0 +1,98 @@
+/*div居中*/
+.center{
+    margin: 0 auto;
+}
+
+/*文字位置*/
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+
+/*设置行内列表*/
+.list-inline-l li{
+    float: left;
+}
+.list-inline-r li{
+    float: right;
+}
+
+/*宽高*/
+.width-44{
+    width: 44px;
+}
+
+/*padding&&margin&&left&&top*/
+.padding-bottom-32{
+    padding-bottom: 32px;
+}
+.padding-bottom-80{
+    padding-bottom: 70px;
+}
+.padding-left-10{
+    padding-left: 10px;
+}
+.padding-left-24{
+    padding-left: 24px;
+}
+.padding-left-60{
+    padding-left: 60px;
+}
+
+/*颜色*/
+.bg-eee{
+    background: #eeeeee;
+}
+.even{
+    background: #f9f9f9;
+}
+.lucency{
+    opacity: 0;
+    filter:alpha(opacity=0);
+}
+
+/*图标*/
+.icon-ok{
+    background: url("../images/icon_ok.png") no-repeat  0 36px;
+}
+.icon-home{
+    background: url("../images/icon_home.png") no-repeat  0 36px;
+}
+.icon-world{
+    background: url("../images/icon_world.png") no-repeat  0 36px;
+}
+.icon-card{
+    background: url("../images/icon_card.png") no-repeat  0 36px;
+}
+.icon-rocket{
+    background: url("../images/icon_rocket.png") no-repeat  0 36px;
+}
+.icon-this{
+    background: url("../images/icon_this.png") no-repeat  0 36px;
+}
+.icon-heart{
+    background: url("../images/icon_heart.png") no-repeat 0 36px;
+}
+.icon-money{
+    background: url("../images/icon_money.png") no-repeat 0 36px;
+}
+.icon-clock{
+    background: url("../images/icon_clock.png") no-repeat 0 36px;
+}
+.icon-curve{
+    background: url("../images/icon_curve.png") no-repeat 0 36px;
+}
+.icon-breakpoint{
+    background: url("../images/icon_breakpoint.png") no-repeat 0 36px;
+}
+.icon-list{
+    background: url("../images/icon_list.png") no-repeat 0 36px;
+}
+.icon-entry{
+    background: url("../images/icon_entry.png") no-repeat 0 36px;
+}
+.icon-search{
+    background: url("../images/icon_search.png") no-repeat 0 36px;
+}

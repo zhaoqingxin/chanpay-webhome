@@ -1,0 +1,179 @@
+.pot{
+    height: 438px;
+    background-color: #f5f4f2;
+    background-image: url("../../images/pot.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.line-bg{
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 120px;
+    background: url("../../images/line.jpg") repeat-x 0 center;
+    z-index: -1;
+}
+.manage-money h2{
+    width: 220px;
+    height: 120px;
+    font-size: 24px;
+    color: #595656;
+    line-height: 120px;
+    text-align: center;
+    background: #ffffff;
+}
+.enum{
+    padding-left: 138px;
+    padding-bottom: 52px;
+}
+.enum li{
+    padding-left: 22px;
+    width: 470px;
+    font-size: 14px;
+    color: #595656;
+    padding-bottom: 18px;
+    background: url("../../images/dot.jpg") no-repeat 0 6px;
+}
+.manage-money h3{
+    font-size: 18px;
+    color: #ed7005;
+    text-align: center;
+    padding-bottom: 52px;
+}
+.issue{
+    padding-left: 90px;
+    padding-right: 80px;
+    padding-bottom: 74px;
+    color: #231815;
+    font-size: 16px;
+}
+.issue li{
+    height: 90px;
+}
+.issue-l{
+    padding-left: 240px;
+    padding-top: 62px;
+    padding-bottom: 62px;
+    line-height: 30px;
+    width: 220px;
+    background: url("../../images/manage1.png") no-repeat left top;
+}
+.issue-r{
+    padding-left: 240px;
+    padding-top: 62px;
+    padding-bottom: 62px;
+    line-height: 30px;
+    width: 220px;
+    background: url("../../images/manage1.png") no-repeat left top;
+}
+.note{
+    margin-left: 158px;
+    margin-bottom: 20px;
+    padding-left: 114px;
+    padding-top: 80px;
+    padding-bottom: 40px;
+    height: 140px;
+    background: url("../../images/note.png") no-repeat 0 0;
+}
+.note .tip{
+    width: 46px;
+    height: 32px;
+    background: url("../../images/tip.png") no-repeat 0 0;
+    left: 110px;
+    top: 40px;
+    font-size: 14px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 24px;
+}
+.note p{
+    font-size: 16px;
+    color: #231815;
+    height: 32px;
+    line-height: 32px;
+}
+.note .num{
+    font-size: 18px;
+    color: #ed6d00;
+}
+.note .strong{
+    padding-top: 8px;
+    font-size: 20px;
+    color: #ed6d00;
+}
+
+.credit h2{
+    width: 220px;
+    height: 120px;
+    padding-bottom: 40px;
+    font-size: 24px;
+    color: #595656;
+    line-height: 120px;
+    text-align: center;
+    background: #ffffff;
+}
+.credit .detail{
+    background: url("../../images/credit2.png") no-repeat 40px 0;
+}
+.credit .detail p{
+    padding-left: 650px;
+    height: 240px;
+    line-height: 34px;
+    padding-top: 80px;
+    width: 464px;
+    font-size: 16px;
+    color: #595656;
+}
+.credit h3{
+    font-size: 18px;
+    color: #ed7005;
+    text-align: center;
+    padding-bottom: 52px;
+    padding-top: 20px;
+}
+.advantage li{
+    width: 290px;
+    float: left;
+    height: 200px;
+    padding-bottom: 70px;
+    padding-left: 55px;
+    padding-right: 55px;
+    text-align: center;
+}
+.advantage li h4{
+    height: 58px;
+    line-height: 58px;
+    font-size: 16px;
+    color: #595656;
+    font-weight: bold;
+}
+.advantage li p{
+    font-size: 16px;
+    color: #595656;
+}
+
+
+
+.footer{
+    height: 300px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #ffffff;
+    background: #3a3a3a;
+}
+.footer ul{
+    padding-top: 32px;
+    padding-bottom: 21px;
+    width: 430px;
+}
+.footer a{
+    color: #ffffff;
+}
+.footer ul li{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.footer ul li.border-r{
+    border-right: 2px solid #fff;
+}

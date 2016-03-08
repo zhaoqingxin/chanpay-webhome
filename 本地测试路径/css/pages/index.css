@@ -1,0 +1,297 @@
+/*第一个li，产品优势*/
+.advantage{
+    background: url("../../images/support.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.advantage-theme{
+    top: 50%;
+    margin-top: -180px;
+    left: 50%;
+    margin-left: -520px;
+    height: 200px;
+    width: 400px;
+    padding-top: 40px;
+}
+/*字体*/
+.font-size-85{
+    font-size: 85px;
+}
+.font-size-80{
+    font-size: 80px;
+}
+.font-size-50{
+    font-size: 50px;
+}
+.font-size-20{
+    font-size: 20px;
+}
+.color-676664{
+    color: #676664;
+}
+.branch{
+    font-size: 22px;
+    font-weight: bold;
+    color: #fe9436;
+    width: 500px;
+    height: 440px;
+    top: 50%;
+    left: 50%;
+    margin-top: -260px;
+    margin-left: 50px;
+}
+.branch span{
+    width: 124px;
+    height: 110px;
+    text-align: center;
+    line-height: 110px;
+    background: url("../../images/border.png") no-repeat 0 0;
+}
+.branch .row2{
+    width: 50px;
+    height: 50px;
+    line-height: 22px;
+    padding-left: 40px;
+    padding-right: 34px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+}
+
+.top-0{
+    top:0;
+}
+.top-72{
+    top: 72px;
+}
+.top-64{
+    top: 64px;
+}
+.top-118{
+    top: 118px;
+}
+.top-134{
+    top: 134px;
+}
+.top-186{
+    top: 186px;
+}
+.top-200{
+    top: 200px;
+}
+.top-240{
+    top: 240px;
+}
+.top-260{
+    top: 260px;
+}
+.top-316{
+    top: 316px;
+}
+.left-6{
+    left: 6;
+}
+.left-10{
+    left: 10px;
+}
+.left-110{
+    left: 110px;
+}
+.left-224{
+    left: 224px;
+}
+.left-114{
+    left: 114px;
+}
+.left-122{
+    left: 122px;
+}
+.left-344{
+    left: 344px;
+}
+.left-340{
+    left: 340px;
+}
+.left-230{
+    left: 230px;
+}
+.left-240{
+    left: 240px;
+}
+/*第二个li，解决方案*/
+.solve{
+    background: url("../../images/solve.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.solve-theme{
+    width: 300px;
+    height: 40px;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -560px;
+    background: url("../../images/solve_theme.png") no-repeat 0 0;
+    padding-top: 100px;
+}
+/*第三个li，企业金融*/
+.finance{
+    background: url("../../images/finance.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.finance-theme{
+    width: 350px;
+    height: 40px;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: 200px;
+    background: url("../../images/finance_theme.png") no-repeat 0 0;
+    padding-top: 100px;
+}
+/*第四个li，融合产品之企业钱包*/
+.confluence{
+    background: url("../../images/confluence.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.wallet-theme{
+    width: 350px;
+    height: 40px;
+    top: 50%;
+    left: 50%;
+    margin-top: -180px;
+    margin-left: -520px;
+    background: url("../../images/wallet-theme.png") no-repeat 0 0;
+    padding-top: 100px;
+}
+/*切换主题页面的按钮*/
+.toggle{
+    width: 40px;
+    height: 200px;
+    right: 20px;
+    top: 50%;
+    margin-top: -100px;
+    z-index: 99;
+}
+.toggle li{
+    padding: 14px;
+}
+.dot{
+    display: block;
+    width: 12px;
+    height: 12px;
+    background: url("../../images/dot_white.png") no-repeat 0 0;
+    cursor: pointer;
+}
+.dot.active{
+    background: url("../../images/dot_solid.png") no-repeat 0 0;
+}
+/*底部文字介绍*/
+.introduce{
+    height: 62px;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+.introduce-bg{
+    height: 62px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 199;
+    background: #000;
+    opacity: 0.5;
+    filter:alpha(opacity=50);
+}
+.introduce-container{
+    height: 38px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    top: 0;
+    left: 50%;
+    margin-left: -600px;
+    color: #fff;
+    z-index: 299;
+}
+.introduce-icon{
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 14px;
+    border-right: 2px solid #ffffff;
+}
+.introduce h3{
+    padding-bottom: 8px;
+    font-size: 16px;
+}
+.introduce-text{
+    padding-left: 16px;
+}
+
+/*尾li*/
+.footer{
+    height: 125px;
+    background: #3a3a3a;
+}
+.cooperation{
+    left: 80px;
+    top: 50%;
+    margin-top: -220px;
+    color: #676664;
+}
+.cooperation h2{
+    font-size: 24px;
+    padding-bottom: 36px;
+}
+.cooperation-bank a{
+    display: block;
+    width: 137px;
+    height: 40px;
+}
+.cooperation-bank li{
+    margin-right: 48px;
+    padding-bottom: 32px;
+}
+.link p{
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+}
+.link .number{
+    font-size: 24px;
+}
+.WeChat{
+    margin-right: 146px;
+}
+.WeChat p{
+    width: 90px;
+}
+.company{
+    padding-top: 16px;
+    padding-bottom: 4px;
+}
+.footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #ffffff;
+}
+.footer ul{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    width: 430px;
+}
+.footer a{
+    color: #ffffff;
+}
+.footer ul li{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.footer ul li.border-r{
+    border-right: 2px solid #fff;
+}

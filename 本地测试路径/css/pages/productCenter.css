@@ -1,0 +1,106 @@
+.detail-box{
+    height: 380px;
+    left: 50%;
+    top: 50%;
+    margin-left: -600px;
+    margin-top: -280px;
+}
+.B2B{
+    background: url("../../images/B2B.png") no-repeat 620px 0;
+}
+.detail{
+    width: 420px;
+    height: 380px;
+    padding-left: 90px;
+    padding-right: 80px;
+}
+.detail h2{
+    color: #ff6b59;
+    padding-top: 80px;
+    padding-bottom: 56px;
+    font-size: 30px;
+}
+.detail p{
+    line-height: 32px;
+    color: #858585;
+    font-size: 16px;
+}
+.feature-box{
+    height: 180px;
+    left: 50%;
+    top: 50%;
+    margin-left: -600px;
+    margin-top: 102px;
+}
+.feature{
+    height: 180px;
+    padding-left: 90px;
+    padding-right: 80px;
+}
+.feature li{
+    width: 360px;
+    height: 46px;
+    padding-top: 36px;
+    padding-bottom: 8px;
+    padding-left: 74px;
+}
+.feature li h3{
+    color: #ff4630;
+    font-size: 16px;
+    padding-bottom: 12px;
+}
+.feature li p{
+    font-size: 14px;
+    color: #6b6b6b;
+}
+.line-dashed{
+    width: 100%;
+    height: 2px;
+    left: 0;
+    top: 50%;
+    margin-top: 100px;
+    background: url("../../images/line_dashed.png") repeat-x;
+}
+
+.B2C{
+    background: url("../../images/B2C.png") no-repeat 0 -40px;
+}
+.batchPay{
+    background: url("../../images/batchPay.png") no-repeat 660px 0;
+}
+.batchCollection{
+    background: url("../../images/batchCollection.png") no-repeat 90px 0;
+}
+.quickPay{
+    background: url("../../images/quickPay.png") no-repeat 700px 20px;
+}
+.mobilePay{
+    background: url("../../images/mobilePay.png") no-repeat 60px 10px;
+}
+.POS{
+    background: url("../../images/POS.png") no-repeat 720px -8px;
+}
+
+.footer{
+    height: 300px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #ffffff;
+    background: #3a3a3a;
+}
+.footer ul{
+    padding-top: 32px;
+    padding-bottom: 21px;
+    width: 430px;
+}
+.footer a{
+    color: #ffffff;
+}
+.footer ul li{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.footer ul li.border-r{
+    border-right: 2px solid #fff;
+}

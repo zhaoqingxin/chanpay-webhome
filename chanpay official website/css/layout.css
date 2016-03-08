@@ -1,0 +1,118 @@
+/*宽度*/
+@media (max-width: 1240px) {
+    .screen{
+        width: 1240px;
+    }
+}
+.container {
+    width: 1200px;
+}
+.col-33{
+    width:33%;
+}
+.col-50{
+    width: 50%;
+}
+/*浮动 定位基础样式*/
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.clearfix:after{
+    display: block;
+    content: "";
+    clear: both;
+}
+.clear{
+    zoom:1;
+}
+.pr{
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.pa{
+    position: absolute;
+}
+.pf{
+    position: fixed;
+}
+.pf{
+    position: fixed;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+/*注册登录条*/
+.page-login{
+    height: 26px;
+    background:#333;
+    color:#fff;
+    line-height: 26px;
+    z-index: 999;
+}
+.page-login a{
+    color:#fff;
+}
+/*nav*/
+.page-header{
+    z-index: 999;
+}
+.page-nav{
+    height: 74px;
+    line-height: 74px;
+    font-size: 16px;
+    background: #ffffff;
+}
+.page-nav a{
+    color: #545454;
+}
+.page-nav .visit{
+    color: #f36f21;
+}
+.menu{
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    background: #f8ba41;
+}
+.menu a{
+    color: #ffffff;
+}
+.menu ul{
+    padding-left: 120px;
+}
+.menu ul li{
+    padding-left: 32px;
+    padding-right: 32px;
+}
+.menu .target{
+    background: #e7a31f;
+}
+.logo{
+    display: block;
+    width: 150px;
+    text-indent: -10000em;
+    background: url("../images/logo.png");
+    background-repeat: no-repeat;
+    background-position: 0 22px;
+}
+
+/*content*/
+.page-content-container{
+    overflow: hidden;
+}
+.full-height{
+    height: 650px;
+}
+.page-content{
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9;
+}
+
